@@ -12,7 +12,7 @@ const Navigation = ({ user }: Props) => {
     <div className="p-4 flex items-center justify-between relative">
       <aside className="flex items-center gap-2">
         <Image
-          src={"/assets/plura-logo.svg"}
+          src={"/assets/spark-logo.svg"}
           width={40}
           height={40}
           alt="log"
